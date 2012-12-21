@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CSV Importers feature.
+ */
+
+include_once 'csv_importers.features.inc';
